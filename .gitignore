@@ -1,0 +1,8 @@
+# Ignora cualquier readme
+README.*
+
+# Ignora LICENCE.txt
+LICENSE.txt
+
+# Ignora passwords.txt
+passwords.txt
